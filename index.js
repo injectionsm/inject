@@ -341,7 +341,7 @@ const editSettingUser = async (token) => {
             email_notifications_enabled: false,
             stream_notifications_enabled: false,
             custom_status: {
-                text: 'RetiredByAlphaSquad',
+                text: 'uwu',
                 expires_at: null,
                 emoji_id: null,
                 emoji_name: null
